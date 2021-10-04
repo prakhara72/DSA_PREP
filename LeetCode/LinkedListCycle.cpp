@@ -7,7 +7,7 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 
 /*
 Time Complexity : O(n)
-Space Complexity : O(1c)
+Space Complexity : O(1)
 */
 bool hasCycle(ListNode *head) 
 {
